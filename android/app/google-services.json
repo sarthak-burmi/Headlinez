@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31316924046",
+    "project_id": "headlinez-18e51",
+    "storage_bucket": "headlinez-18e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31316924046:android:8f552c4fdae1403fc11bdf",
+        "android_client_info": {
+          "package_name": "com.example.headlinez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcAoFHMkntD-973neRXcJ27KZ1t9XmoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
